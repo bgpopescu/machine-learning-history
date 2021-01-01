@@ -8,3 +8,7 @@ PROBLEM
 * We have data on 5342 villages (35% of the entire country) from local archives in Romania  which were collectivized under communism in 1962
 * We would like to make educated guesses to ascertain which villages were collectivized and which ones were not.
 * We know that collectivization was heavily determing by geographic factors: how mountaineous and how fertile land is.
+
+ SOLUTION
+ We use machine learning to predict which villages were collectivized and which ones were not
+ We run multiple models and choose the one with highest accuracy
